@@ -61,8 +61,8 @@
 		79C00BAE197757A90011C9DE = {
 			isa = PBXGroup;
 			children = (
-				79C00BB9197757A90011C9DE /* ToDoApp */,
-				79C00BCC197757A90011C9DE /* ToDoAppTests */,
+				79C00BB9197757A90011C9DE /* SwitfToDoApp */,
+				79C00BCC197757A90011C9DE /* SwitfToDoAppTests */,
 				79C00BB8197757A90011C9DE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -76,7 +76,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		79C00BB9197757A90011C9DE /* ToDoApp */ = {
+		79C00BB9197757A90011C9DE /* SwitfToDoApp */ = {
 			isa = PBXGroup;
 			children = (
 				79C00BBC197757A90011C9DE /* AppDelegate.swift */,
@@ -87,6 +87,7 @@
 				79C00BC3197757A90011C9DE /* Images.xcassets */,
 				79C00BBA197757A90011C9DE /* Supporting Files */,
 			);
+			name = SwitfToDoApp;
 			path = ToDoApp;
 			sourceTree = "<group>";
 		};
@@ -98,12 +99,13 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		79C00BCC197757A90011C9DE /* ToDoAppTests */ = {
+		79C00BCC197757A90011C9DE /* SwitfToDoAppTests */ = {
 			isa = PBXGroup;
 			children = (
 				79C00BCF197757A90011C9DE /* ToDoAppTests.swift */,
 				79C00BCD197757A90011C9DE /* Supporting Files */,
 			);
+			name = SwitfToDoAppTests;
 			path = ToDoAppTests;
 			sourceTree = "<group>";
 		};
