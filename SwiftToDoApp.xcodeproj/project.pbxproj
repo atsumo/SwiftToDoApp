@@ -88,7 +88,7 @@
 				79C00BBA197757A90011C9DE /* Supporting Files */,
 			);
 			name = SwitfToDoApp;
-			path = ToDoApp;
+			path = SwiftToDoApp;
 			sourceTree = "<group>";
 		};
 		79C00BBA197757A90011C9DE /* Supporting Files */ = {
@@ -106,7 +106,7 @@
 				79C00BCD197757A90011C9DE /* Supporting Files */,
 			);
 			name = SwitfToDoAppTests;
-			path = ToDoAppTests;
+			path = SwiftToDoAppTests;
 			sourceTree = "<group>";
 		};
 		79C00BCD197757A90011C9DE /* Supporting Files */ = {
